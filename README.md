@@ -55,3 +55,5 @@ Show an aria-live alert #github-status that reports when a lookup starts, succee
 ### Implementation
 - Updated with new functionality
 - All Round 1 features remain intact
+
+[![pages-build-deployment](https://github.com/rishabhcdb/github-user-created-abc123/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rishabhcdb/github-user-created-abc123/actions/workflows/pages/pages-build-deployment)
